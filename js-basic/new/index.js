@@ -1,4 +1,4 @@
-function myNew(constructor, ...args) {
+function customNew(constructor, ...args) {
   // 1. create a black, plain JavaScript Object
   var obj = {}
 
